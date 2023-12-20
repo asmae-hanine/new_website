@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <form action="">
+    <form action="create_new_user.php" method="post">
         <label for="username">Username</label>
         <input type="text" name="username" id="username">
 
